@@ -1,0 +1,5 @@
+# inventory/inventory_file.txt
+
+Product Name|Quantity|Price
+product1|10|100
+product2|20|200
